@@ -1,0 +1,2 @@
+rootProject.name = "poc_bar_code_android"
+include ':app'
